@@ -1,8 +1,8 @@
 //
 //  TransactionsListView.swift
-//  SwiftUICoreDataSpendingTrackerLBTA
+//  ExpenseTracker-2
 //
-//  Created by Brian Voong on 7/7/21.
+//  Created by Şahin Karahan on 10.01.2025.
 //
 
 import SwiftUI

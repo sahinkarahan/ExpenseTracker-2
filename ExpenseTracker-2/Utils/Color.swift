@@ -1,12 +1,12 @@
 //
 //  Color.swift
-//  SwiftUICoreDataSpendingTrackerLBTA
+//  ExpenseTracker-2
 //
-//  Created by Brian Voong on 7/12/21.
+//  Created by Şahin Karahan on 10.01.2025.
 //
 
 import SwiftUI
 
 extension Color {
-    static let cardTransactionBackground = Color("cardTransactionBackground")
+    static let cardTransactionBackground = Color("back")
 }

@@ -1,8 +1,8 @@
 //
 //  CategoriesListView.swift
-//  SwiftUICoreDataSpendingTrackerLBTA
+//  ExpenseTracker-2
 //
-//  Created by Brian Voong on 7/8/21.
+//  Created by Şahin Karahan on 10.01.2025.
 //
 
 import SwiftUI
@@ -87,7 +87,7 @@ struct CategoriesListView: View {
         
         let category = TransactionCategory(context: context)
         category.name = self.name
-        category.colorData = UIColor(color).encode()
+        category.colorData = UIColor(color).toData()
         category.timestamp = Date()
         
         // this will hide your error
